@@ -128,4 +128,4 @@ def play_game_to_video(depth=3, filename="chess_alpha_beta.mp4"):
     print("Video saved to:", filename)
 
 # Run
-play_game_to_video(depth=2, filename="chess_alpha_beta.mp4")
+play_game_to_video(depth=3, filename="chess_alphaBetaPruning.mp4")
