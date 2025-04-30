@@ -75,4 +75,4 @@ def play_game(depth=4):
     print("Result:", board.result())
     print("Final Board:\n", board)
 
-play_game(depth=4)
+play_game(depth=2)
